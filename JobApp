@@ -1,0 +1,38 @@
+<h1>Ramorion McGee</h1>
+
+<p>(Provide Approximate Date MM/DD/YYYY)</p>
+
+<h1 class="top">Enter Employment Details</h1>
+
+<h3>*Start Date:</h3>
+
+<input type="text">
+
+<h3>End Date:</h3>
+
+<input type="text">
+
+<h3>*Employer:</h3> <input type="text">
+
+
+<h3>*Job Title:</h3> <input type="text">
+
+
+<h3>Telephone:</h3> <input type="text">
+
+
+<h3>Contact Employer:</h3>
+
+<select class="dropdown">
+  
+  <option>yes</option>
+  
+  <option>no</option> </select>
+
+<h3>Ending Salary:</h3>
+
+<input type="text">
+
+<h3>Essential Job Functions:</h3>
+
+<input type="text">
